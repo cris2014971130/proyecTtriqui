@@ -1,0 +1,15 @@
+C:\Users\cachamorrov\Desktop\POO_C\proyectTriqui\obj\Debug\net6.0\proyectTriqui.csproj.AssemblyReference.cache
+C:\Users\cachamorrov\Desktop\POO_C\proyectTriqui\obj\Debug\net6.0\proyectTriqui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cachamorrov\Desktop\POO_C\proyectTriqui\obj\Debug\net6.0\proyectTriqui.AssemblyInfoInputs.cache
+C:\Users\cachamorrov\Desktop\POO_C\proyectTriqui\obj\Debug\net6.0\proyectTriqui.AssemblyInfo.cs
+C:\Users\cachamorrov\Desktop\POO_C\proyectTriqui\obj\Debug\net6.0\proyectTriqui.csproj.CoreCompileInputs.cache
+C:\Users\cachamorrov\Desktop\POO_C\proyectTriqui\bin\Debug\net6.0\proyectTriqui.exe
+C:\Users\cachamorrov\Desktop\POO_C\proyectTriqui\bin\Debug\net6.0\proyectTriqui.deps.json
+C:\Users\cachamorrov\Desktop\POO_C\proyectTriqui\bin\Debug\net6.0\proyectTriqui.runtimeconfig.json
+C:\Users\cachamorrov\Desktop\POO_C\proyectTriqui\bin\Debug\net6.0\proyectTriqui.dll
+C:\Users\cachamorrov\Desktop\POO_C\proyectTriqui\bin\Debug\net6.0\ref\proyectTriqui.dll
+C:\Users\cachamorrov\Desktop\POO_C\proyectTriqui\bin\Debug\net6.0\proyectTriqui.pdb
+C:\Users\cachamorrov\Desktop\POO_C\proyectTriqui\obj\Debug\net6.0\proyectTriqui.dll
+C:\Users\cachamorrov\Desktop\POO_C\proyectTriqui\obj\Debug\net6.0\ref\proyectTriqui.dll
+C:\Users\cachamorrov\Desktop\POO_C\proyectTriqui\obj\Debug\net6.0\proyectTriqui.pdb
+C:\Users\cachamorrov\Desktop\POO_C\proyectTriqui\obj\Debug\net6.0\proyectTriqui.genruntimeconfig.cache
